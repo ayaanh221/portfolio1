@@ -82,7 +82,7 @@ background-image: url(../images/plushpen.jpg);
 
   width:500px;
   height: 500px;
- margin: 20px;
+ margin-right: -20px;
 
 	padding: 10px;
    
@@ -200,7 +200,7 @@ h3.heading{
     
 }
 #skills p{
- font-family: 'Pacifico', cursive;
+ 
  font-size: 25px;
  text-align: center;
  text-transform: uppercase;
@@ -346,7 +346,27 @@ fieldset {
 :-ms-input-placeholder {
  color:#888;
 }
-/*--------------------------Social -----------------------------*/
+/*--------------------------footer -----------------------------*/
+
+.footer {
+   
+  
+   width: 100%;
+   background-color: white;
+   color: white;
+    
+  
+ 
+   display: flex; 
+   align-items: center; 
+   
+
+ 
+    justify-content: center;
+  
+    }
+
+
 .social-footer {
   padding: 1rem;
   background: #8a8a8a;
@@ -367,7 +387,7 @@ fieldset {
 .wrapper {
   display: inline-block;
   justify-content: center;
-  padding-left:  43%;
+  
   margin: 20px;
 
 
