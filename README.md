@@ -28,7 +28,7 @@ a chat box so who ever has any question about my website for me can hae a chat o
 
 
 ##  Testing
-I belive that i achied to showcase my portfolio in a wasy that employers and viewers would undersatnd who i am and what id do very easily with the information that i hae provided.
+I belive that i have achived to showcase my portfolio in a ways that employers and viewers would undersatnd who i am and what id do very easily with the information that i hae provided.
 In the about section i have put a picture of my self so vie can imaging what i look like while they read about me i belie this would help them uderstand who i am more. The picture 
 can only be viwed on a desktop only.
 On this section i also wro wo paragraphs brifly exaplaing who i am, my background, what i do and what i intent to achive.
