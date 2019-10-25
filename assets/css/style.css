@@ -82,7 +82,7 @@ background-image: url(../images/plushpen.jpg);
   height: 500px;
  	padding: 20px;
  	float: right;
- 	position: center;
+ 
  	
  }
  
@@ -139,7 +139,7 @@ border-radius: 0;
 
 h3.heading{
     font-size: 1.9rem;
-    font-weight: 650;
+    
     text-transform: uppercase;
     margin-bottom: 1.9rem;
 }
@@ -252,7 +252,7 @@ h3.heading{
 	-webkit-font-smoothing:antialiased;
 	-moz-font-smoothing:antialiased;
 	-o-font-smoothing:antialiased;
-	font-smoothing:antialiased;
+	
 	text-rendering:optimizeLegibility;
    
 }
