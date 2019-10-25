@@ -47,7 +47,18 @@ the reason i changed it was because it was not very presentable.
 
 ##  Deployment
  I deployed This site directly from a master branch and i used Git hub to host it. the landing page must be index.html for it to be deployed correctly.
- to run my code locally you would have to put the following in to your terminal ;- 'git commit'  (https://ayaanh221.github.io/portfolio1/)
+ 
+ to deploy you would have to -:
+ 1.creat respository
+ 2.push your code
+ 3.go to settings
+ 4.scroll down to git hub pages
+ 5.select master branch
+ 6.publish pages
+ 7.go to website (after 20 second my site would be published at (https://ayaanh221.github.io/portfolio1/)
+ 
+ 
+ 
 ## Credits
 
 ### Content
