@@ -12,7 +12,7 @@ There is a section called about on the about page i made it ery clear for employ
 I have also added my CV so they can know my work history in depth.As a user type, I want to make my website very easy to understand, so that when people view my website they
 dont have any trouble to get around and ubderstand what i deliverd in the website. 
 There is also an about page which explains who i am and what i do it also has a picture of me in this section the reason o addd the picture is so that the viewer knows who i am.
-you would find my wireframs and images in the following link (C:\Users\Ayaan Shaif )
+you would find my wireframs and images in the following link (https://drive.google.com/open?id=11Mc9dMz7KRxELbt5exzPMak0FTEKB_fB )
 ##  Features
 This website uses a full navigation that goes across the page horizontally only when your viewing it on a desktop and when you view it on a mobile phone the navigaton bar automatically 
 turns in to a scroll spy, to do this i used bootstrap and a bit of jquary to smooth it out.
