@@ -55,7 +55,7 @@ All the content in the Home and About section was all written by me.
 The text for home section was copied from the Wikipedia article for html  the link is [here](https://simple.m.wikipedia.org/wiki/HTML)
 the text in the home section for css was copied from MDN web docs an the link for that is [here](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 the text in the hom section for javaScript was copied from Techopedia and the link for that is [here](https://www.techopedia.com/definition/3929/javascript-js)
-i also copied my titles in the sections about, work and contact from [here]( https://www.youtube.com/watch?v=V_lAhqLXT9A&list=LLvkm_Fx2R6CFvKmjWx5TZHA&index=53&t=0s)
+I also copied my titles in the sections about, work and contact from [here]( https://www.youtube.com/watch?v=V_lAhqLXT9A&list=LLvkm_Fx2R6CFvKmjWx5TZHA&index=53&t=0s)
 ###  Media
 The photos used in this site were obtained from [here](https://unsplash.com/) 
 and (https://www.w3.org/logo/)
